@@ -8,7 +8,7 @@
 
 ## ⚒️ Built With
 
-- HTML & CSS
+- HTML5 & CSS3 - Javascript
 
 [Live Demo](https://yaseerokino.github.io/awesome-books/)
 
@@ -33,11 +33,16 @@ git clone https://github.com/yaseerokino/awesome-books.git
 - With the files open in VS Code, click the **Go Live** button at the bottom of the VSCode window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 - Optionally you can simply open the index.html file located in the "personal-portfolio" folder with your preferred browser
 
-## 🙎🏾‍♂️ Author
+## 🙎🏾‍♂️ Authors:
 
 - GitHub: [@yaseerokino](https://github.com/yaseerokino)
 - Twitter: [@yaseerokino](https://twitter.com/yaseerokino)
 - LinkedIn: [Yaseer Okino](https://linkedin.com/in/yaseerokino)
+
+- Mohamed Badr
+- [GitHub](https://github.com/mbdesigns1989)
+- [Twitter_X](https://twitter.com/mohamed66083152)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-badr-27b26a212/)
 
 ## 👊🏾 Show your support
 
