@@ -10,7 +10,7 @@
 
 - HTML5 & CSS3 - Javascript
 
-[Live Demo](https://mbdesigns1989.github.io/awesome-books/))
+[Live Demo](https://mbdesigns1989.github.io/awesome-books/)
 
 ## 🧰 Tools
 
